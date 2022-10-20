@@ -7,5 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'CASA DE CAMBIOS "UCB"';
-  bol = 1;
+  bol = 50;
+  cambiar(){
+    const bol = this.bol/6.96;
+    return bol;
+  }
 }
+
+
