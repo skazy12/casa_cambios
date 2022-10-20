@@ -2,5 +2,5 @@
 
 ## Mirko Alarcon
 ## Omar Rodriguez
-## Vladimir Gutierrez Oropezagit 
+## Vladimir Gutierrez
 ## Carlos Pacoricona
