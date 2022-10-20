@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'CASA DE CAMBIOS "UCB"';
-
+  bol = 1;
 }
